@@ -1,3 +1,11 @@
+#
+# This boilerplate code is based on the information written by
+# Nathan Horne on: 
+# 	http://nathanhorne.com/guide-to-pyqtpyside/
+#
+# This is merely a simple template that followed from that.
+#
+
 import os
 import sys
 
